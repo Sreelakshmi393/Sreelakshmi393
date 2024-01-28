@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreelakshmi393&" alt="sreelakshmi393" /></p>
 
-## Here are some 🦜Parrots😂:
+## Thanks for visiting😁 Here's some parrots for you🦜:
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
