@@ -14,6 +14,9 @@
 
 - 📫 How to reach me **sreelakshmianilkumar001@gmail.com**
 
+  <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
