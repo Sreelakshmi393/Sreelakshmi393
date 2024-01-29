@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreelakshmi393" alt="sreelakshmi393" /></a> </p>
 
   <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-  <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+  <img align="right" alt="Coding" width="300" height="300" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
 - 🌱 I’m currently learning **Machine learning and Data Science**
 
