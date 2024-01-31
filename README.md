@@ -34,8 +34,8 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreelakshmi393&show_icons=true&locale=en" alt="sreelakshmi393" /></p>-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreelakshmi393&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ocean_dark" alt="sreelakshmi393" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreelakshmi393&" alt="sreelakshmi393" /></p>
-
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreelakshmi393&" alt="sreelakshmi393" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.vercel.app/api?user=sreelakshmi393&" alt="sreelakshmi393" /></p>
   <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## Thanks for visiting😁 Here's some parrots for you🦜:
