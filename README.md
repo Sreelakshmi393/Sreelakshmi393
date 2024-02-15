@@ -40,8 +40,8 @@
 
 
   <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-  
+<img src="https://raw.githubusercontent.com/Sreelakshmi393/Sreelakshmi393/output/snake.svg" alt="Snake animation" />
+  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## Thanks for visiting😁 Here's some parrots for you🦜:
 
