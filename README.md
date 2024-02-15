@@ -32,9 +32,9 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreelakshmi393&show_icons=true&locale=en&layout=compact" alt="sreelakshmi393" /></p>-->
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreelakshmi393&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ocean_dark" alt="sreelakshmi393" /></p>--> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sreelakshmi393&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="sreelakshmi393" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sreelakshmi393&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="sreelakshmi393" /></p>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreelakshmi393&show_icons=true&locale=en" alt="sreelakshmi393" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreelakshmi393&show_icons=true&locale=en" alt="sreelakshmi393" /></p>-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreelakshmi393&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="sreelakshmi393" /></p>
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sreelakshmi393&theme=midnight-purple&hide_border=false" /> 
 
