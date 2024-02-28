@@ -1,6 +1,8 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdzZ295dnllNzliZWthN2RucHRtaDh5cDM3M2kzZTNqOThiY3V1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="1500">
 <h1 align="center">Heyy<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" >, I'm SREELAKSHMI ANILKUMAR</h1>
-<h3 align="center">MCA Student at College of Engineering, Trivandrum. Machine Learning enthusiast.</h3>
+<h3 align="center">MCA Student at College of Engineering, Trivandrum</h3>
+<h3 align="center">Machine Learning enthusiast</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreelakshmi393&label=Profile%20views&color=0e75b6&style=flat" alt="sreelakshmi393" /> </p>
 
