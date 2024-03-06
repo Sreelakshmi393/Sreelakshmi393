@@ -7,7 +7,6 @@
 
   <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
   <img align="right" alt="Coding" width="250" height="250" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-
 - 🌱 I’m currently learning **Machine learning and Data Science**
 
 - 💬 Ask me about **Machine Learning and Designing**
